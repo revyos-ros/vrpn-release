@@ -1,4 +1,4 @@
-From c59fc5dabab7d1d289d67cdfa8ba8a1be2c1e72c Mon Sep 17 00:00:00 2001
+From db785f11bc04339c032aea053196c3add8e988d2 Mon Sep 17 00:00:00 2001
 From: Alvin Sun <alvinsunyixiao@gmail.com>
 Date: Fri, 1 Jul 2022 15:27:58 -0700
 Subject: [PATCH 4/5] Revert "remove cmake sets"
@@ -28,5 +28,5 @@ index 8c84ab3..16db0e1 100644
  	# If you're using this as a subproject and want things installed, set VRPN_INSTALL TRUE.
  	set(SUBPROJECT TRUE)
 -- 
-2.34.1
+2.44.0.769.g3c40516874-goog
 
