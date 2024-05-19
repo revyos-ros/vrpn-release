@@ -1,4 +1,4 @@
-From f5b1f38c9a1454bb85991a8d4739f558da4cf255 Mon Sep 17 00:00:00 2001
+From 61187d161b7ff0440313efadef60abbc63813591 Mon Sep 17 00:00:00 2001
 From: Alvin Sun <alvinsunyixiao@gmail.com>
 Date: Sat, 18 May 2024 16:53:35 -0700
 Subject: [PATCH 6/6] deprecate CMAKE_HAVE_THREADS_LIBRARY
@@ -21,5 +21,5 @@ index 641b62b..b121481 100644
  
  if(WIN32)
 -- 
-2.34.1
+2.43.0
 
