@@ -1,4 +1,4 @@
-From 3af117f0859777c161443a3bd9034b283a60d798 Mon Sep 17 00:00:00 2001
+From 0af4c9831f4d018426495f979bd62d5d46a885ad Mon Sep 17 00:00:00 2001
 From: Alvin Sun <alvinsunyixiao@gmail.com>
 Date: Sat, 18 May 2024 16:53:35 -0700
 Subject: [PATCH 6/6] deprecate CMAKE_HAVE_THREADS_LIBRARY
