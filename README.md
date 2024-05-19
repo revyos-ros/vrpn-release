@@ -1,3 +1,26 @@
+## vrpn (jazzy) - 7.35.0-18
+
+The packages in the `vrpn` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy vrpn` on `Sun, 19 May 2024 18:12:44 -0000`
+
+The `vrpn` package was released.
+
+Version of package(s) in repository `vrpn`:
+
+- upstream repository: https://github.com/vrpn/vrpn.git
+- release repository: https://github.com/ros2-gbp/vrpn-release.git
+- rosdistro version: `7.35.0-16`
+- old version: `7.35.0-17`
+- new version: `7.35.0-18`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.24.0`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## vrpn (rolling) - 7.35.0-20
 
 The packages in the `vrpn` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling vrpn` on `Sun, 19 May 2024 18:10:11 -0000`
