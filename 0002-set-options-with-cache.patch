@@ -1,4 +1,4 @@
-From d3956240d4b5c39c95a955ee01dfc21f9aac1c4e Mon Sep 17 00:00:00 2001
+From cd68d2a05a601389c1612ccd843fc76d671f85a4 Mon Sep 17 00:00:00 2001
 From: Alvin Sun <alvinsunyixiao@gmail.com>
 Date: Thu, 30 Jun 2022 23:14:30 -0700
 Subject: [PATCH 2/5] set options with cache
@@ -31,5 +31,5 @@ index 169f812..16db0e1 100644
  
  if((NOT CMAKE_SOURCE_DIR STREQUAL CMAKE_CURRENT_SOURCE_DIR) OR VRPN_SUBPROJECT_BUILD)
 -- 
-2.44.0.769.g3c40516874-goog
+2.43.0
 
